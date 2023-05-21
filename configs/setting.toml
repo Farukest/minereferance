@@ -8,8 +8,8 @@
 # keypair = "/etc/helium_gateway/gateway_key.bin"
 
 # Ecc608 based:
-keypair = "ecc://replace_i2c_value:60?slot=0"
-onboarding = "ecc://replace_i2c_value:60?slot=15"
+keypair = "ecc://replace_i2c_value:96?slot=0"
+onboarding = "ecc://replace_i2c_value:96?slot=15"
 
 # The address to listen on for the (semtech) packet forwarder
 listen = "127.0.0.1:1680"
